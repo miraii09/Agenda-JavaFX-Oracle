@@ -2,7 +2,7 @@
 
 Application de bureau de gestion d'événements, réalisée à l'ISG Tunis ([05/2026]) en binôme.
 
-[Capture de l'interface de la Calendrier:](docs/capture_calendrier.png)(docs/capture_calendrier2.png)
+[Capture de l'interface de la Calendrier:](docs/capture_calendrier.jpg)(docs/capture_calendrier2.jpg)
 
 
 ## Fonctionnalités
