@@ -1,0 +1,5 @@
+# Copiez ce fichier en "db.properties" (à la racine du projet) et renseignez vos valeurs.
+# Le fichier db.properties n'est jamais envoyé sur GitHub.
+db.url=jdbc:oracle:thin:@localhost:1521:free
+db.user=VOTRE_UTILISATEUR_ORACLE
+db.password=VOTRE_MOT_DE_PASSE
